@@ -17,14 +17,25 @@
   },
   "devDependencies": {
     "@boilerz/build-tools": "^1.2.0",
-    "@boilerz/eslint-config": "1.4.0",
+    "@boilerz/eslint-config": "1.5.0",
     "@boilerz/logger": "^1.0.3",
     "@boilerz/prettier-config": "^1.0.0",
     "@boilerz/tsconfig": "^1.0.0",
     "@types/mongoose": "^5.5.11",
-    "eslint": "^5",
+    "eslint": "^6.1.0",
     "mongoose": "^5.6.8",
     "prettier": "^1",
     "typescript": "^3"
+  },
+  "greenkeeper": {
+    "commitMessages": {
+      "initialBadge": ":pencil: add Greenkeeper badge",
+      "initialDependencies": ":arrow_up: update dependencies",
+      "initialBranches": ":tada: whitelist greenkeeper branches",
+      "dependencyUpdate": ":arrow_up: update ${dependency} to version ${version}",
+      "devDependencyUpdate": ":arrow_up: update ${dependency} to version ${version}",
+      "dependencyPin": ":pushpin: pin ${dependency} to ${oldVersion}",
+      "devDependencyPin": ":pushpin: pin ${dependency} to ${oldVersion}"
+    }
   }
 }
