@@ -8,7 +8,7 @@ import logger from '@boilerz/logger';
 const autoConnect: boolean = process.env.MONGO_DB_AUTO_CONNECT === 'true';
 const defaultUri: string =
   process.env.MONGO_DB_URI ||
-  `http://localhost:27017/${path.basename(process.cwd())}`;
+  `mongodb://localhost:27017/${path.basename(process.cwd())}`;
 
 export function instance(): Mongoose {
   return mongoose;
