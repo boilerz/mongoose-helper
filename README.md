@@ -1,6 +1,6 @@
 # @boilerz/mongoose-helper
 
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/boilerz/mongoose-helper)](https://www.npmjs.com/package/@boilerz/mongoose-helper) [![Greenkeeper badge](https://badges.greenkeeper.io/boilerz/mongoose-helper.svg)](https://greenkeeper.io/)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/boilerz/mongoose-helper)](https://www.npmjs.com/package/@boilerz/mongoose-helper)
 
 > Mongoose helper.
 
