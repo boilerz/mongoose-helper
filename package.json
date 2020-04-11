@@ -29,5 +29,8 @@
   },
   "resolutions": {
     "eslint/mkdirp/minimist": "^1.2.5"
+  },
+  "dependencies": {
+    "@sentry/node": "^5.15.4"
   }
 }
