@@ -1,5 +1,6 @@
 # @boilerz/mongoose-helper
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/boilerz/mongoose-helper/blob/master/LICENSE)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/boilerz/mongoose-helper)](https://www.npmjs.com/package/@boilerz/mongoose-helper)
 
 > Mongoose helper.
