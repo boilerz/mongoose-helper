@@ -24,7 +24,7 @@
     "@types/mongoose": "^5.7.32",
     "eslint": "^6.1.0",
     "mongoose": "^5.10.0",
-    "prettier": "^2.1.0",
+    "prettier": "^2.1.1",
     "typescript": "^3"
   },
   "resolutions": {
