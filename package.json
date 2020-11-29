@@ -13,7 +13,7 @@
   },
   "peerDependencies": {
     "@boilerz/logger": "^1.1.0",
-    "mongoose": "^5.10.17"
+    "mongoose": "^5.10.18"
   },
   "devDependencies": {
     "@boilerz/build-tools": "^1.4.1",
@@ -23,7 +23,7 @@
     "@boilerz/tsconfig": "^1.0.0",
     "@types/mongoose": "^5.10.1",
     "eslint": "^6.1.0",
-    "mongoose": "^5.10.17",
+    "mongoose": "^5.10.18",
     "prettier": "^2.2.1",
     "typescript": "^3"
   },
