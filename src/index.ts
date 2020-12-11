@@ -18,6 +18,12 @@ export async function connect(
   uri?: string,
   options?: ConnectionOptions,
 ): Promise<Mongoose | void> {
+  if (!uri) {
+    logger.warn(
+      { defaultUri },
+      'MONGO_DB_URI env var is not defined, a default uri will be used',
+    );
+  }
   const mongooseInstance = await mongoose.connect(uri || defaultUri, options);
   logger.info('[mongo-helper] ✓ Connection successful');
   return mongooseInstance;
