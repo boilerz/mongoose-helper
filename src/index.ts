@@ -2,7 +2,9 @@
 
 import path from 'path';
 import process from 'process';
+
 import mongoose, { ConnectionOptions, Mongoose } from 'mongoose';
+
 import logger from '@boilerz/logger';
 
 const autoConnect: boolean = process.env.MONGO_DB_AUTO_CONNECT === 'true';

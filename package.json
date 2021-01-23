@@ -17,12 +17,12 @@
   },
   "devDependencies": {
     "@boilerz/build-tools": "^1.4.1",
-    "@boilerz/eslint-config": "^1.11.1",
+    "@boilerz/eslint-config": "^2.0.1",
     "@boilerz/logger": "^1.1.0",
     "@boilerz/prettier-config": "^1.0.0",
     "@boilerz/tsconfig": "^1.0.0",
     "@types/mongoose": "^5.10.3",
-    "eslint": "^6.1.0",
+    "eslint": "^7.18.0",
     "mongoose": "^5.11.13",
     "prettier": "^2.2.1",
     "typescript": "^4.1.3"
