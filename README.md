@@ -2,6 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/boilerz/mongoose-helper/blob/master/LICENSE)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/boilerz/mongoose-helper)](https://www.npmjs.com/package/@boilerz/mongoose-helper)
+[![GH CI Action](https://github.com/boilerz/mongoose-helper/workflows/CI/badge.svg)](https://github.com/boilerz/mongoose-helper/actions?query=workflow:CI)
 
 > Mongoose helper.
 
