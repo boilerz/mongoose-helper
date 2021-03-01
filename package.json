@@ -21,7 +21,7 @@
     "@boilerz/eslint-config": "^2.0.16",
     "@boilerz/logger": "^1.1.19",
     "@boilerz/prettier-config": "^1.0.3",
-    "@boilerz/tsconfig": "^1.4.6",
+    "@boilerz/tsconfig": "^1.4.7",
     "@boilerz/tsconfig-production": "^1.4.6",
     "@types/mongoose": "^5.10.3",
     "eslint": "^7.20.0",
