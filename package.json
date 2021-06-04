@@ -23,7 +23,7 @@
     "@boilerz/prettier-config": "^1.0.4",
     "@boilerz/tsconfig": "^1.4.10",
     "@boilerz/tsconfig-production": "^1.4.10",
-    "@types/mongoose": "^5.11.63",
+    "@types/mongoose": "^5.11.97",
     "eslint": "^7.27.0",
     "mongoose": "^5.12.11",
     "prettier": "^2.3.0",
