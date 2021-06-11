@@ -24,7 +24,7 @@
     "@boilerz/tsconfig": "^1.4.10",
     "@boilerz/tsconfig-production": "^1.4.11",
     "@types/mongoose": "^5.11.97",
-    "eslint": "^7.27.0",
+    "eslint": "^7.28.0",
     "mongoose": "^5.12.13",
     "prettier": "^2.3.0",
     "typescript": "^4.3.2"
