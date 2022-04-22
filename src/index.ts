@@ -3,7 +3,7 @@
 import path from 'path';
 import process from 'process';
 
-import mongoose, { ConnectionOptions, Mongoose } from 'mongoose';
+import mongoose, { ConnectOptions, Mongoose } from 'mongoose';
 
 import logger from '@boilerz/logger';
 
@@ -18,7 +18,7 @@ export function instance(): Mongoose {
 
 export async function connect(
   uri?: string,
-  options?: ConnectionOptions,
+  options?: ConnectOptions,
 ): Promise<Mongoose | void> {
   if (!uri) {
     logger.warn(
