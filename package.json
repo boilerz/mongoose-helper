@@ -13,13 +13,13 @@
     "build": "buildTSPackage"
   },
   "peerDependencies": {
-    "@boilerz/logger": "^1.1.49",
+    "@boilerz/logger": "^1.1.50",
     "mongoose": "^6.5.2"
   },
   "devDependencies": {
     "@boilerz/build-tools": "^1.5.38",
     "@boilerz/eslint-config": "^2.0.38",
-    "@boilerz/logger": "^1.1.49",
+    "@boilerz/logger": "^1.1.50",
     "@boilerz/prettier-config": "^1.0.4",
     "@boilerz/tsconfig": "^1.4.15",
     "@boilerz/tsconfig-production": "^1.4.15",
