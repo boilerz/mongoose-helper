@@ -757,10 +757,10 @@
     eslint-plugin-react "^7.28.0"
     eslint-plugin-react-hooks "^4.3.0"
 
-"@boilerz/logger@^1.1.77":
-  version "1.1.77"
-  resolved "https://registry.yarnpkg.com/@boilerz/logger/-/logger-1.1.77.tgz#5cf2c559eb7dac5c0d356fbbabb983f9b1284761"
-  integrity sha512-fkKsbh1vc48dqZBmdpBULa8TJdnuT8VTl+1uT7KmsVFSvGu2knrcolHbJAJCW1spylRJr8VEKxgGK8MTNR3NoA==
+"@boilerz/logger@^1.1.79":
+  version "1.1.79"
+  resolved "https://registry.yarnpkg.com/@boilerz/logger/-/logger-1.1.79.tgz#9fe855b0d97714738342620e5e7f39dc43bb23aa"
+  integrity sha512-Ijmf7xp8xbAKSgP+425FWkR68diGmeNRBmQIpqQE7c0Alb+YqXoxy4rKtm3QH+y+ZePaz8s34ogPy24pf5MV2g==
   dependencies:
     "@types/bunyan" "^1.8.8"
     bunyan "^1.8.15"
