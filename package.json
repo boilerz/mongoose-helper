@@ -30,6 +30,6 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "@sentry/node": "^7.47.0"
+    "@sentry/node": "^7.48.0"
   }
 }
