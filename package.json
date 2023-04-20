@@ -1,6 +1,6 @@
 {
   "name": "@boilerz/mongoose-helper",
-  "version": "1.2.192",
+  "version": "1.2.193",
   "main": "src/index.ts",
   "repository": "git@github.com:boilerz/mongoose-helper.git",
   "author": "boilerz",
